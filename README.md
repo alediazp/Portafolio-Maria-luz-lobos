@@ -1,25 +1,3 @@
-portafolio-Maria-luz-lobos
-├─ assets
-│  ├─ css
-│  │  └─ style.css
-│  ├─ img
-│  │  ├─ carousel-1.jpg
-│  │  ├─ carousel-2.jpg
-│  │  ├─ carousel-3.jpg
-│  │  └─ profile.jpg
-│  └─ js
-│     └─ script.js
-├─ index.html
-├─ LICENSE
-├─ media
-│  ├─ image1.jpeg
-│  ├─ image2.jpeg
-│  ├─ image3.jpeg
-│  └─ image4.jpeg
-├─ paso a paso.md
-└─ tree directory.md
-
-
 # Portafolio Digital - María Luz Lobos Lobos
 
 Portafolio profesional de María Luz Lobos Lobos, Psicóloga Licenciada.
